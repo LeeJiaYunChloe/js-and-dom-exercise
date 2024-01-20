@@ -27,3 +27,6 @@ testClick.addEventListener("click", (newThing) => {
   console.log(newThing.currentTarget);
   newThing.currentTarget.classList.toggle("testEvent");
 });
+
+
+// this is a test
